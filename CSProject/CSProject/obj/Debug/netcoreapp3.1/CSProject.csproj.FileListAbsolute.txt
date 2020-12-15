@@ -1,0 +1,13 @@
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.exe
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.deps.json
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.json
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.runtimeconfig.dev.json
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\bin\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csprojAssemblyReference.cache
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfoInputs.cache
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.AssemblyInfo.cs
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.dll
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.pdb
+C:\Users\Reece Gaddie\source\repos\CSProject\CSProject\obj\Debug\netcoreapp3.1\CSProject.genruntimeconfig.cache

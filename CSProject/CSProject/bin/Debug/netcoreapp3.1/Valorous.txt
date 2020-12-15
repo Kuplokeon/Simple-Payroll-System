@@ -1,0 +1,10 @@
+PAYSLIP FOR DEC2020
+====================
+Name of Staff: Valorous
+Hours Worked: 160
+Basic Pay: 8000
+Allowance: 1000
+
+====================
+Total Pay: 8000
+====================

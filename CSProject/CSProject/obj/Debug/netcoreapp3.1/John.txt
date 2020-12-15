@@ -1,0 +1,9 @@
+PAYSLIP FOR DEC2020
+====================
+Name of Staff: John
+Hours Worked: 145
+Basic Pay: 4350
+
+====================
+Total Pay: 4350
+====================

@@ -1,0 +1,9 @@
+PAYSLIP FOR DEC2020
+====================
+Name of Staff: Alyx
+Hours Worked: 165
+Basic Pay: 4950
+
+====================
+Total Pay: 4950
+====================

@@ -1,0 +1,4 @@
+Valorous, Manager
+Jhon, Manager
+Hazel, Admin
+Alyx, Admin

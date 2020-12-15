@@ -1,0 +1,9 @@
+PAYSLIP FOR DEC2020
+====================
+Name of Staff: Jhon
+Hours Worked: 7
+Basic Pay: 210
+
+====================
+Total Pay: 210
+====================

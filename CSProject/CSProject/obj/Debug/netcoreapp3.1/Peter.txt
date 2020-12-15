@@ -1,0 +1,10 @@
+PAYSLIP FOR DEC2020
+====================
+Name of Staff: Peter
+Hours Worked: 7
+Basic Pay: 350
+Allowance: 1000
+
+====================
+Total Pay: 350
+====================
